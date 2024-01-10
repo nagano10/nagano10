@@ -1,13 +1,15 @@
-<img align="right" alt="Vetor Storyset" height="380" src="https://github.com/Torrez0/meu-readme/assets/131430865/589af504-3f98-4b55-8760-9f1d6339d221">
+<img align="right" alt="Vetor Storyset" height="380" src="https://github.com/nagano10/nagano10/assets/127157063/c36b6608-0a74-438b-af34-b041d66df9d4">
 
 
 <h1>
     <a href="https://github.com/nagano10">
      <img align="center" alt="Logo desenvolvedor do site flaticon" width="36px" src="https://github.com/Torrez0/meu-readme/assets/131430865/d3e88811-91f2-4a10-9644-18bee70f2231"></a>
-    <span>Alan Torres</span>
+    <span>Eduardo Nagano</span>
 </h1>
 
-<p align="justify"> Olá, prazer! Me chamo Alan, tenho 20 anos. Moro em São Paulo - Brasil. Apaixonado por tecnologia e jogos, estudo Análise e Desenvolvimento de Sistemas no Centro Universitário Senac. Atualmente sou estagiário no time de Serviços de Implantação do Atacado na Vivo, onde lido com rotinas desafiadoras relacionadas a projetos de Telecomunicações e realizo processos de automação na área. 😁
+<p align="justify"> 
+Oi, pessoal! 👋 <br>
+Sou o Eduardo, apaixonado por tecnologia aos 19 anos, estagiando em Produção/Sustentação RPA na Vivo. Tenho experiência em BackEnd, buscando sempre superar expectativas. Acredito na colaboração, no aprendizado contínuo e estou aberto a oportunidades e colaborações emocionantes! <br>🌐💻 #TechEnthusiast #Developer #RPA
 <br>
 
 
@@ -17,7 +19,7 @@
 </h3>
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-407BFF?style=for-the-badge&logo=Linkedin&logoColor=fff)](https://www.linkedin.com/in/alan-torres-8a4676184/)                                                                                                                                               [![Instagram](https://img.shields.io/badge/Instagram-407BFF?style=for-the-badge&logo=Instagram&logoColor=fff)](https://www.instagram.com/alwntorres/)                                                                                                                                                        [![Discord](https://img.shields.io/badge/Discord-407BFF?style=for-the-badge&logo=Discord&logoColor=fff)](https://www.discord.com/in/alwntorres/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-407BFF?style=for-the-badge&logo=Linkedin&logoColor=fff)](www.linkedin.com/in/eduardo-nagano-lacerda-530934230)                                                                                                                                               [![Instagram](https://img.shields.io/badge/Instagram-407BFF?style=for-the-badge&logo=Instagram&logoColor=fff)](https://www.instagram.com/eduardonagano/)                                                                                                                                                        
 
 
 
@@ -27,7 +29,13 @@
 
 <p align="justify"> 
     <br>
-    Sou um programador Java dedicado que busca constantemente aprimorar minhas habilidades nessa linguagem. Além disso, possuo sólidos conhecimentos em MySQL e experiência em implantação de Telecomunicações. Também sou proficiente na criação de dashboards com o Power BI, habilidoso em metodologias ágeis como Scrum e Kanban, e possuo um certificado Yellow Belt pela Six Sigma, demonstrando minha dedicação à melhoria contínua e ao fornecimento de resultados excepcionais em todos os projetos em que me envolvo. 💡
+    Sou um programador BackEnd dedicado, especializado em C# e Java, sempre em busca de aprimorar minhas habilidades. Além do meu domínio nessas linguagens, trago conhecimentos sólidos em MySQL e experiência em automações de processos em diversos segmentos.
+
+Destaco minha proficiência na criação de dashboards, utilizando ferramentas como Power BI e Grafana. Minha experiência se estende à visão de otimização e sustentação de projetos, onde busco constantemente a excelência.
+
+Um diferencial? Sou reconhecido como um comunicador interpessoal excepcional. Curiosidade é meu lema, e sempre me entusiasmo por novas tecnologias, explorando-as com dedicação e empenho. 💡 Vamos criar algo incrível juntos!
+
+#BackEndDeveloper #CSharp #Java #MySQL #PowerBI #Grafana #Inovação
 <br>
 
 <br></br>

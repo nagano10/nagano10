@@ -19,7 +19,7 @@ Sou o Eduardo, apaixonado por tecnologia aos 19 anos, estagiando em Produção/S
 </h3>
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-407BFF?style=for-the-badge&logo=Linkedin&logoColor=fff)](www.linkedin.com/in/eduardo-nagano-lacerda-530934230)                                                                                                                                               [![Instagram](https://img.shields.io/badge/Instagram-407BFF?style=for-the-badge&logo=Instagram&logoColor=fff)](https://www.instagram.com/eduardonagano/)                                                                                                                                                        
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-407BFF?style=for-the-badge&logo=Linkedin&logoColor=fff)](https://www.linkedin.com/in/eduardo-nagano-lacerda-530934230/)                                                                                                                                               [![Instagram](https://img.shields.io/badge/Instagram-407BFF?style=for-the-badge&logo=Instagram&logoColor=fff)](https://www.instagram.com/eduardonagano/)                                                                                                                                                        
 
 
 
